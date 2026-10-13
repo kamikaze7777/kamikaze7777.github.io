@@ -7,9 +7,9 @@ const config = {
   favicon: 'img/favicon.ico',
   baseUrl: '/',
   baseUrlIssueBanner: true,
-  url: 'https://massgrave.dev',
-  organizationName: 'massgravel',
-  projectName: 'massgrave.dev',
+  url: 'https://kamikaze7777.github.io',
+  organizationName: 'kamikaze7777',
+  projectName: 'kamikaze7777.github.io',
 
   onBrokenLinks: 'throw',
   trailingSlash: false,
